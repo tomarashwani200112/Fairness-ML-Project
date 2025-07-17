@@ -1,4 +1,4 @@
-# M507A Fairness-Aware Machine Learning Project
+#  Fairness-Aware Machine Learning Project
 
 This repository contains a Jupyter Notebook developed as part of the M507A module, focusing on identifying and mitigating bias in machine learning models. The project uses the **Adult Income dataset** to demonstrate how unfair outcomes can arise in predictive modeling, and how fairness-aware techniques can help address them.
 
